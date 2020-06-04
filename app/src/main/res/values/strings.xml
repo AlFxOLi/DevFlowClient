@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DevFlowClient</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="wip">В разработке... \n0w0</string>
+    <string name="Header">Главы:</string>
+    <string name="sign_ip_ENG">Вход</string>
+    <string name="sign_Up_ENG">Регистрация</string>
+    <string name="enter_ENG">Войти в аккаунт</string>
+    <string name="create_ENG">Создать аккаунт</string>
+    <string name="loginHint_ENG">Пожалуйста, введите логин.</string>
+    <string name="PasswordHint_ENG">Пожалуйста, введите пароль.</string>
+    <string name="Bool_ENG">Булева алгебра</string>
+    <string name="Mecha_ENG">Механические вычислительные устройства</string>
+    <string name="First_ENG">первые ЭВМ</string>
+    <string name="IBM_ENG">ЭВМ современного формата</string>
+    <string name="article">Статья</string>
+    <string name="video">Видео</string>
+</resources>

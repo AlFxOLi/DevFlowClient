@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".BlankFragment"
+    android:layout_weight="1">
+
+    <Button
+        android:id="@+id/initialSignInBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="60dp"
+        android:layout_marginEnd="60dp"
+        android:onClick="loadFragment"
+        android:text="@string/sign_ip_ENG" />
+
+    <Button
+        android:id="@+id/initialSignUpBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="60dp"
+        android:layout_marginEnd="60dp"
+        android:onClick="loadFragment"
+        android:text="@string/sign_Up_ENG" />
+
+</LinearLayout>
